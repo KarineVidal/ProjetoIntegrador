@@ -1,0 +1,108 @@
+header{
+    height: 120px;
+    padding-top: 15px;
+}
+
+#img-primary{
+    width: 90px;
+    float: left;
+    margin-left: 100px;
+}
+
+#img-segund{
+    width: 110px;
+    margin-top: 30px;
+}
+
+#padrao-a{
+    margin-top: 30px;
+    margin-right: 250px;
+}
+
+.text{
+    padding-top: 50px;
+    color: rgb(73, 70, 70);
+    margin-left: 230px;
+}
+
+.principal {
+    height: 400px;
+    width: 100%;
+}
+  
+div.wrapper{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.bloco {
+    height: 200px;
+    width: 30%;
+    float: left;
+    background-color: #cccccc;
+}
+
+.z{
+    padding-top: 140px;
+}
+
+#a{
+    background-color: #fa807f;
+    text-align: center;
+}
+
+#b{
+    background-color: #f83f3e;
+}
+
+#c{
+    background-color: #f15e5e;
+    
+}
+
+#d{
+    background-color: #f83f3e;
+}
+
+#e{
+    background-color: #ff6c6c;
+    width: 60%;
+}
+
+.padrao{
+    color: white;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.padrao:hover{
+    color: rgb(113, 193, 230);
+}
+
+.navbar-brand:hover{
+    background-image: linear-gradient(to left, rgb(182, 225, 245), rgb(113, 193, 230));
+}
+
+.nav-light:hover{
+    background-image: linear-gradient(to left, rgb(182, 225, 245), rgb(113, 193, 230));
+}
+
+.d-flex:hover{
+    background-image: linear-gradient(to left, rgb(182, 225, 245), rgb(113, 193, 230));
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    padding-top: 60px;
+}

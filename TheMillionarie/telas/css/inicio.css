@@ -1,0 +1,42 @@
+section{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#img{
+    width: 180px;
+}
+
+.btn{
+    background-color:  #f83f3e;
+    width: 30%;
+    height: 45px;
+    color: white;
+}
+
+#div2{
+    padding-top: 15px;
+}
+
+#botao2{
+    margin-right: 220px;
+}
+
+#div3{
+    padding-top: 100px;
+    text-align: center;
+}
+
+#text2{
+    float: left;
+    margin-left: 100px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    padding-top: 60px;
+}
